@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Roast Battle",
+  "description": "An indie browser game where players trade sharp, witty roasts with an AI opponent under a 30-second timer, evaluated by an AI comedy judge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Roast Battle</title>
+    <meta name="description" content="An indie browser game where players trade sharp, witty roasts with an AI opponent under a 30-second timer, evaluated by an AI comedy judge." />
+    <meta property="og:title" content="AI Roast Battle" />
+    <meta property="og:description" content="An indie browser game where players trade sharp, witty roasts with an AI opponent under a 30-second timer, evaluated by an AI comedy judge." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <script>
+      // Suppress benign iframe WebSocket disconnects and HMR reconnection errors
+      window.addEventListener('unhandledrejection', function (event) {
+        var str = '' + (event.reason ? (event.reason.message || event.reason) : '');
+        if (str.toLowerCase().includes('websocket')) {
+          event.preventDefault();
+          event.stopImmediatePropagation();
+        }
+      });
+      window.addEventListener('error', function (event) {
+        var str = '' + (event.message || (event.error && event.error.message) || '');
+        if (str.toLowerCase().includes('websocket')) {
+          event.preventDefault();
+          event.stopImmediatePropagation();
+        }
+      });
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

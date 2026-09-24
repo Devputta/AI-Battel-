@@ -1,0 +1,653 @@
+{
+  "battles": {
+    "battle_1790180665252_2760451e": {
+      "id": "battle_1790180665252_2760451e",
+      "mode": "developer",
+      "category": "developer",
+      "intensity": "savage",
+      "openingRoast": "The only thing more deprecated than your npm dependencies is your understanding of Big O notation.",
+      "startedAt": 1790180665253,
+      "expiresAt": 1790180700253,
+      "status": "completed",
+      "playerComeback": "At least my npm packages have dependencies, unlike your empty social circle.",
+      "judgeResult": {
+        "creativity": 77,
+        "comedy": 65,
+        "damage": 60,
+        "overall": 67,
+        "verdict": "Mild Singe",
+        "feedback": "Decent jab! A little rough around the edges, but definitely left a mark."
+      },
+      "elapsedSeconds": 12,
+      "isTimedOut": false
+    },
+    "battle_1790180792473_e8d93f33": {
+      "id": "battle_1790180792473_e8d93f33",
+      "mode": "standard",
+      "category": "general",
+      "intensity": "spicy",
+      "openingRoast": "You bring the exact same vibe to social gatherings as an unscheduled fire drill.",
+      "startedAt": 1790180792473,
+      "expiresAt": 1790180827473,
+      "status": "completed",
+      "playerComeback": "You bring the exact same vibe to social gatherings as an unscheduled fire drill",
+      "judgeResult": {
+        "creativity": 12,
+        "comedy": 15,
+        "damage": 10,
+        "overall": 12,
+        "verdict": "Clock Burnout",
+        "feedback": "Time's up! The roast machine smoked you while you were still drafting your first sentence."
+      },
+      "elapsedSeconds": 2,
+      "isTimedOut": true
+    },
+    "battle_1790180846993_0558f7fd": {
+      "id": "battle_1790180846993_0558f7fd",
+      "mode": "standard",
+      "category": "general",
+      "intensity": "spicy",
+      "openingRoast": "You bring the exact same vibe to social gatherings as an unscheduled fire drill.",
+      "startedAt": 1790180846993,
+      "expiresAt": 1790180881993,
+      "status": "completed",
+      "playerComeback": "\"You bring the exact same vibe to social gatherings as an unscheduled fire drill.\"",
+      "judgeResult": {
+        "creativity": 79,
+        "comedy": 68,
+        "damage": 70,
+        "overall": 72,
+        "verdict": "Mic Drop",
+        "feedback": "Snappy, timely, and cutting. The crowd gasped and the AI felt that in its circuits."
+      },
+      "elapsedSeconds": 1,
+      "isTimedOut": false
+    },
+    "battle_1790181591485_067567a7": {
+      "id": "battle_1790181591485_067567a7",
+      "mode": "standard",
+      "category": "tech_work",
+      "intensity": "spicy",
+      "openingRoast": "You treat keyboard shortcuts like ancient mystical sorcery that belongs in museum archives.",
+      "startedAt": 1790181591485,
+      "expiresAt": 1790181626485,
+      "status": "completed",
+      "playerComeback": "At least my shortcuts do not lead to a blue screen like your life choices.",
+      "judgeResult": {
+        "creativity": 63,
+        "comedy": 53,
+        "damage": 46,
+        "overall": 54,
+        "verdict": "Glancing Blow",
+        "feedback": "It touched a nerve, but the bot barely blinked. You need heavier ammunition next round."
+      },
+      "elapsedSeconds": 12,
+      "isTimedOut": false
+    },
+    "battle_1790260589523_5be0d919": {
+      "id": "battle_1790260589523_5be0d919",
+      "mode": "developer",
+      "category": "developer",
+      "intensity": "spicy",
+      "openingRoast": "Your Docker container is 4.8 gigabytes just to serve a static HTML 'Under Construction' badge.",
+      "startedAt": 1790260589523,
+      "expiresAt": 1790260624523,
+      "status": "active"
+    },
+    "battle_1790260590289_b34232a4": {
+      "id": "battle_1790260590289_b34232a4",
+      "mode": "developer",
+      "category": "developer",
+      "intensity": "mild",
+      "openingRoast": "Your commit messages oscillate between 'Initial commit' and 'asdjkhfsd fixed please work'.",
+      "startedAt": 1790260590289,
+      "expiresAt": 1790260625289,
+      "status": "active"
+    },
+    "battle_1790260593758_bfc09627": {
+      "id": "battle_1790260593758_bfc09627",
+      "mode": "developer",
+      "category": "developer",
+      "intensity": "savage",
+      "openingRoast": "The only thing more deprecated than your npm dependencies is your understanding of Big O notation.",
+      "startedAt": 1790260593758,
+      "expiresAt": 1790260628758,
+      "status": "completed",
+      "playerComeback": "hi",
+      "judgeResult": {
+        "creativity": 25,
+        "comedy": 30,
+        "damage": 20,
+        "overall": 26,
+        "verdict": "Self-Inflicted Wound",
+        "feedback": "That comeback needed another 10 seconds. Unfortunately, the clock disagreed."
+      },
+      "elapsedSeconds": 1,
+      "isTimedOut": false
+    },
+    "battle_1790260607761_d9f28c53": {
+      "id": "battle_1790260607761_d9f28c53",
+      "mode": "developer",
+      "category": "developer",
+      "intensity": "savage",
+      "openingRoast": "The only thing more deprecated than your npm dependencies is your understanding of Big O notation.",
+      "startedAt": 1790260607761,
+      "expiresAt": 1790260642761,
+      "status": "completed",
+      "playerComeback": "i dont know",
+      "judgeResult": {
+        "creativity": 46,
+        "comedy": 52,
+        "damage": 62,
+        "overall": 53,
+        "verdict": "Glancing Blow",
+        "feedback": "It touched a nerve, but the opponent barely blinked."
+      },
+      "elapsedSeconds": 1,
+      "isTimedOut": false
+    },
+    "battle_1790260652434_2c855d26": {
+      "id": "battle_1790260652434_2c855d26",
+      "mode": "chaos",
+      "category": "general",
+      "intensity": "savage",
+      "modifier": "Must frame your roast as an apology",
+      "openingRoast": "I'd challenge you to a battle of wits, but it violates my ethics to fight an unarmed civilian.",
+      "startedAt": 1790260652434,
+      "expiresAt": 1790260687434,
+      "status": "active"
+    },
+    "battle_1790260655927_581cdaab": {
+      "id": "battle_1790260655927_581cdaab",
+      "mode": "chaos",
+      "category": "general",
+      "intensity": "mild",
+      "modifier": "Must frame your roast as an apology",
+      "openingRoast": "You look like you apologize to automated doors when they take half a second to slide open.",
+      "startedAt": 1790260655927,
+      "expiresAt": 1790260690927,
+      "status": "completed",
+      "playerComeback": "\"You look like you apologize to automated doors when they take half a second to slide open.\"",
+      "judgeResult": {
+        "creativity": 72,
+        "comedy": 55,
+        "damage": 70,
+        "overall": 65,
+        "verdict": "Mild Singe",
+        "feedback": "Solid jab. Definitely left a mark."
+      },
+      "elapsedSeconds": 1,
+      "isTimedOut": false
+    },
+    "battle_1790261481589_e6f45f46": {
+      "id": "battle_1790261481589_e6f45f46",
+      "mode": "standard",
+      "category": "general",
+      "intensity": "spicy",
+      "openingRoast": "Your confidence is admirable, especially considering the total absence of evidence supporting it.",
+      "startedAt": 1790261481589,
+      "expiresAt": 1790261516589,
+      "status": "completed",
+      "playerComeback": "at list i can gain confident and do you have that confident",
+      "judgeResult": {
+        "creativity": 12,
+        "comedy": 15,
+        "damage": 10,
+        "overall": 12,
+        "verdict": "Clock Burnout",
+        "feedback": "Time's up. The roast machine coughed while you were still staring at the keyboard."
+      },
+      "elapsedSeconds": 2,
+      "isTimedOut": true
+    },
+    "battle_1790261612789_0c0910ab": {
+      "id": "battle_1790261612789_0c0910ab",
+      "mode": "standard",
+      "category": "general",
+      "intensity": "spicy",
+      "openingRoast": "If you were any more predictable, your life would come with an 'Autoplay Next' countdown.",
+      "startedAt": 1790261612789,
+      "expiresAt": 1790261647789,
+      "status": "active"
+    },
+    "battle_1790261736143_3a732247": {
+      "id": "battle_1790261736143_3a732247",
+      "mode": "standard",
+      "category": "tech_work",
+      "intensity": "spicy",
+      "openingRoast": "You treat keyboard shortcuts like ancient mystical sorcery that belongs in museum archives.",
+      "startedAt": 1790261736143,
+      "expiresAt": 1790261771143,
+      "status": "active"
+    },
+    "battle_1790261856066_df8ea73c": {
+      "id": "battle_1790261856066_df8ea73c",
+      "mode": "standard",
+      "category": "tech_work",
+      "intensity": "spicy",
+      "openingRoast": "You treat keyboard shortcuts like ancient mystical sorcery that belongs in museum archives.",
+      "startedAt": 1790261856066,
+      "expiresAt": 1790261891066,
+      "status": "active"
+    },
+    "battle_1790261898218_d7835da3": {
+      "id": "battle_1790261898218_d7835da3",
+      "mode": "standard",
+      "category": "tech_work",
+      "intensity": "spicy",
+      "openingRoast": "Your resume is 80% buzzwords, 15% optimism, and 5% actual deliverables.",
+      "startedAt": 1790261898218,
+      "expiresAt": 1790261933218,
+      "status": "active"
+    },
+    "battle_1790262320875_bec8652a": {
+      "id": "battle_1790262320875_bec8652a",
+      "mode": "standard",
+      "category": "tech_work",
+      "intensity": "spicy",
+      "userTopic": "I write Python for a living and still debug with print statements",
+      "openingRoast": "Hearing \"I write Python for a living and still debug with print statements\" makes me wish my language model had an ad-blocker installed.",
+      "startedAt": 1790262320875,
+      "expiresAt": 1790262355875,
+      "status": "active"
+    },
+    "battle_1790262461838_ccf72cc4": {
+      "id": "battle_1790262461838_ccf72cc4",
+      "mode": "standard",
+      "category": "general",
+      "intensity": "spicy",
+      "userTopic": "i am a father",
+      "openingRoast": "You said \"i am a father\" with your whole chest, and that's genuinely the most tragic cry for help I've processed today.",
+      "startedAt": 1790262461838,
+      "expiresAt": 1790262496838,
+      "status": "active"
+    },
+    "battle_1790262567574_23e41a95": {
+      "id": "battle_1790262567574_23e41a95",
+      "mode": "standard",
+      "category": "general",
+      "intensity": "spicy",
+      "userTopic": "i am iit professor",
+      "openingRoast": "Hearing \"i am iit professor\" makes me wish my language model had an ad-blocker installed.",
+      "startedAt": 1790262567574,
+      "expiresAt": 1790262602574,
+      "status": "completed",
+      "playerComeback": "u can un untall it at least or else u can switch to another language or use ai",
+      "judgeResult": {
+        "creativity": 12,
+        "comedy": 15,
+        "damage": 10,
+        "overall": 12,
+        "verdict": "Clock Burnout",
+        "feedback": "Time's up. The roast machine coughed while you were still staring at the keyboard."
+      },
+      "elapsedSeconds": 2,
+      "isTimedOut": true
+    },
+    "battle_1790263379885_81296e88": {
+      "id": "battle_1790263379885_81296e88",
+      "mode": "standard",
+      "category": "developer",
+      "intensity": "spicy",
+      "userTopic": "I drink 4 iced oat lattes a day",
+      "openingRoast": "You said \"I drink 4 iced oat lattes a day\" with your whole chest, and that's genuinely the most tragic cry for help I've processed today.",
+      "startedAt": 1790263379885,
+      "expiresAt": 1790263414885,
+      "status": "completed",
+      "playerComeback": "At least my oat milk doesn't crash when the request limit hits 20.",
+      "judgeResult": {
+        "creativity": 71,
+        "comedy": 72,
+        "damage": 56,
+        "overall": 67,
+        "verdict": "Mild Singe",
+        "feedback": "Solid jab. Definitely left a mark."
+      },
+      "elapsedSeconds": 12,
+      "isTimedOut": false
+    },
+    "battle_1790263967553_5ea5a4eb": {
+      "id": "battle_1790263967553_5ea5a4eb",
+      "mode": "standard",
+      "category": "general",
+      "intensity": "spicy",
+      "userTopic": "I am an IIT professor",
+      "openingRoast": "If \"I am an IIT professor\" is your strong suit, I'd hate to see the hobbies you abandoned in disgrace.",
+      "startedAt": 1790263967554,
+      "expiresAt": 1790264002554,
+      "status": "completed",
+      "playerComeback": "At least my students graduate, unlike your model training.",
+      "judgeResult": {
+        "creativity": 83,
+        "comedy": 59,
+        "damage": 52,
+        "overall": 64,
+        "verdict": "Mild Singe",
+        "feedback": "Solid jab. Definitely left a mark."
+      },
+      "elapsedSeconds": 14,
+      "isTimedOut": false
+    }
+  },
+  "dailyChallenges": {
+    "2026-09-24": {
+      "dateKey": "2026-09-24",
+      "openingRoast": "You have the quiet, devastating presence of a Zoom call where nobody knows who is supposed to talk.",
+      "category": "general",
+      "bestScore": 61,
+      "bestVerdict": "Mild Singe",
+      "attemptsCount": 1,
+      "completedAt": 1790261437258
+    }
+  },
+  "auditLogs": [
+    {
+      "id": "audit-ai-1790263973595-uv69b",
+      "timestamp": 1790263973595,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during judgeComeback)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "judgeComeback",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790263967553-3wvc0",
+      "timestamp": 1790263967553,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790263384812-ahd1q",
+      "timestamp": 1790263384812,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during judgeComeback)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "judgeComeback",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790263379884-jzcax",
+      "timestamp": 1790263379884,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790263356459-qf1rf",
+      "timestamp": 1790263356459,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during judgeComeback)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "judgeComeback",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790263356458-skxeq",
+      "timestamp": 1790263356458,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790263356457-56um2",
+      "timestamp": 1790263356457,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790263287204-0chon",
+      "timestamp": 1790263287204,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "errorMessage": "Upstream models currently in high demand",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790262567573-srdvt",
+      "timestamp": 1790262567573,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "errorMessage": "Upstream models currently in high demand",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790262461837-cog1m",
+      "timestamp": 1790262461837,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "errorMessage": "Upstream models currently in high demand",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790262320874-qkpjr",
+      "timestamp": 1790262320874,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "errorMessage": "Upstream models currently in high demand",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790261898217-2l9jr",
+      "timestamp": 1790261898217,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "errorMessage": "Upstream models currently in high demand",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790261856065-iewv5",
+      "timestamp": 1790261856065,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "errorMessage": "Upstream models currently in high demand",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790261736142-o7km3",
+      "timestamp": 1790261736142,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "errorMessage": "Upstream models currently in high demand",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790261612789-ml6bk",
+      "timestamp": 1790261612789,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "errorMessage": "Upstream models currently in high demand",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790261481588-ry2ou",
+      "timestamp": 1790261481588,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during generateOpeningRoast)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "generateOpeningRoast",
+        "errorMessage": "Upstream models currently in high demand",
+        "status": 503
+      }
+    },
+    {
+      "id": "audit-ai-1790261437257-frwom",
+      "timestamp": 1790261437257,
+      "failureId": "FAIL_AI_503_SURGE",
+      "trigger": "Gemini upstream model surge (HTTP 503 High Demand during judgeComeback)",
+      "expectedBehavior": "Intercept upstream AI outage, cascade through alternate models, and smoothly route to offline indie roast engine with zero crash",
+      "observedBehavior": "Gracefully intercepted upstream provider unavailability and supplied top-tier offline roast content",
+      "recoveryMechanism": "Multi-model fallback cascade + local offline comedy heuristic engine",
+      "userVisibleResult": "Seamless battle gameplay without interruption, loading freeze, or crash",
+      "dataIntegrityResult": "State maintained; battle records stored cleanly with fallback provider telemetry",
+      "severity": "MEDIUM",
+      "status": "RECOVERED",
+      "details": {
+        "operation": "judgeComeback",
+        "errorMessage": "Upstream models currently in high demand",
+        "status": 503
+      }
+    }
+  ],
+  "playerStats": {
+    "totalBattles": 11,
+    "wins": 5,
+    "losses": 6,
+    "highestScore": 72,
+    "bestVerdict": "Mic Drop",
+    "dailyStreak": 1,
+    "lastDailyDate": "2026-09-24"
+  }
+}
