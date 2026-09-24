@@ -767,8 +767,7 @@ See [LICENSE](LICENSE) for details.
 GitHub:  
 https://github.com/Devputta
 
-LinkedIn:  
-https://linkedin.com/in/mahadevu-m-p-58b51426b/
+
 
 ---
 
